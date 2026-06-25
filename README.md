@@ -48,5 +48,5 @@ The portfolio includes complete Excel models, supporting documentation, and rele
 
 **Mohd Talib Raeen**
 
-* LinkedIn: *(Add your LinkedIn URL)*
-* Email: *(Add your professional email)*
+* LinkedIn: *https://www.linkedin.com/in/talibbb13/*
+* Email: *talibraeen13@gmail.com*
