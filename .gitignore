@@ -1,0 +1,30 @@
+# Word source files
+*.doc
+*.docx
+
+# Office temp files
+~$*
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# VS Code
+.vscode/
+
+# Python
+__pycache__/
+*.pyc
+
+# Logs
+*.log
+
+# Environment
+.env
+.env.*
+
+# Archives
+*.zip
+*.rar
+*.7z
+*.bak
